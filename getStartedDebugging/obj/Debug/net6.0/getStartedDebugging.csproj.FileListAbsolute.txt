@@ -1,0 +1,15 @@
+/home/nunumarie3000/projects/courses/Code401/GetStartedDebugging/getStartedDebugging/bin/Debug/net6.0/getStartedDebugging
+/home/nunumarie3000/projects/courses/Code401/GetStartedDebugging/getStartedDebugging/bin/Debug/net6.0/getStartedDebugging.deps.json
+/home/nunumarie3000/projects/courses/Code401/GetStartedDebugging/getStartedDebugging/bin/Debug/net6.0/getStartedDebugging.runtimeconfig.json
+/home/nunumarie3000/projects/courses/Code401/GetStartedDebugging/getStartedDebugging/bin/Debug/net6.0/getStartedDebugging.dll
+/home/nunumarie3000/projects/courses/Code401/GetStartedDebugging/getStartedDebugging/bin/Debug/net6.0/getStartedDebugging.pdb
+/home/nunumarie3000/projects/courses/Code401/GetStartedDebugging/getStartedDebugging/obj/Debug/net6.0/getStartedDebugging.csproj.AssemblyReference.cache
+/home/nunumarie3000/projects/courses/Code401/GetStartedDebugging/getStartedDebugging/obj/Debug/net6.0/getStartedDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/home/nunumarie3000/projects/courses/Code401/GetStartedDebugging/getStartedDebugging/obj/Debug/net6.0/getStartedDebugging.AssemblyInfoInputs.cache
+/home/nunumarie3000/projects/courses/Code401/GetStartedDebugging/getStartedDebugging/obj/Debug/net6.0/getStartedDebugging.AssemblyInfo.cs
+/home/nunumarie3000/projects/courses/Code401/GetStartedDebugging/getStartedDebugging/obj/Debug/net6.0/getStartedDebugging.csproj.CoreCompileInputs.cache
+/home/nunumarie3000/projects/courses/Code401/GetStartedDebugging/getStartedDebugging/obj/Debug/net6.0/getStartedDebugging.dll
+/home/nunumarie3000/projects/courses/Code401/GetStartedDebugging/getStartedDebugging/obj/Debug/net6.0/refint/getStartedDebugging.dll
+/home/nunumarie3000/projects/courses/Code401/GetStartedDebugging/getStartedDebugging/obj/Debug/net6.0/getStartedDebugging.pdb
+/home/nunumarie3000/projects/courses/Code401/GetStartedDebugging/getStartedDebugging/obj/Debug/net6.0/getStartedDebugging.genruntimeconfig.cache
+/home/nunumarie3000/projects/courses/Code401/GetStartedDebugging/getStartedDebugging/obj/Debug/net6.0/ref/getStartedDebugging.dll
